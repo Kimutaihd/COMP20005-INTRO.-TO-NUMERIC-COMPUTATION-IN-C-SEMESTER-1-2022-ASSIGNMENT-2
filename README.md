@@ -2,7 +2,7 @@
 This is an assignment: COMP20005 INTRO. TO NUMERIC COMPUTATION IN C SEMESTER 1, 2022 ASSIGNMENT 2
 
 
-The solution for this assignment is readly available here: https://bit.ly/COMP20005
+The solution for this assignment is readly available here: https://bit.ly/COMP20005 or email: jaycodeshd@gmail.com
 
 
 Learning Outcomes
